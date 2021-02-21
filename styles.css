@@ -1,0 +1,229 @@
+body {
+    background-color:rgb(97, 216, 212);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container {
+    background-color: rgb(97, 216, 212);
+}
+
+.name {
+    color:darkslateblue;
+}
+
+.topnav {
+    float: right;
+    background-color: darkslateblue;
+    padding: 15px;
+    word-spacing: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color:darkslategrey;
+}
+
+/** LOGIN PAGE **/
+.userid {
+    position: fixed;
+    top: 45%;
+    left: 65%;
+    font-size: 20px;
+}
+
+.password {
+    position: fixed;
+    top: 50%;
+    left: 63%;
+    font-size: 20px;
+}
+
+.login {
+    position: fixed;
+    top: 55%;
+    left: 67%;
+    width: 100%;
+    font-size: 20px;
+    
+}
+
+.signup {
+    position: fixed;
+    top: 65%;
+    left: 69%;
+}
+
+.copyright {
+    position: fixed;
+    top: 95%;
+    left: 50%;
+}
+
+
+/** HOME PAGE **/
+.sample1 {
+    padding: 100px;
+    border: 3px solid;
+    border-radius: 12px;
+}
+
+.sampleforum1 {
+    padding: 50px;
+    border: 3px solid;
+    border-radius: 12px;
+}
+
+
+.sampleforum2 {
+    padding: 50px;
+    border: 3px solid;
+    border-radius: 12px;
+}
+
+.sampleforum3 {
+    padding: 50px;
+    border: 3px solid;
+    border-radius: 12px;
+}
+
+.sampleforum4 {
+    padding: 50px;
+    border: 3px solid;
+    border-radius: 12px;
+}
+
+
+.sampleforum5 {
+    padding: 50px;
+    border: 3px solid;
+    border-radius: 12px;
+}
+
+
+.sampleforum6 {
+    padding: 50px;
+    border: 3px solid;
+    border-radius: 12px;
+}
+
+.sample1comment1 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample1comment2 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample1comment3 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample1comment4 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample1comment5 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2 {
+    padding: 100px;
+    border: 3px solid;
+    border-radius: 12px;
+}
+
+.sample2comment1 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2comment2 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2comment3 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2comment4 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2comment5 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2comment6 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2comment7 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2comment8 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.sample2comment9 {
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: lightcyan;
+}
+
+.replytest {
+    height: 100px;
+    border-radius: 18px;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+.comment {
+    position: absolute;
+    left: 35%;
+    bottom: 25%;
+}
